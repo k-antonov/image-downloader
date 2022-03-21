@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:bottom="@dimen/drawable_margin"
+        android:drawable="@drawable/wait"
+        android:left="@dimen/drawable_margin"
+        android:right="@dimen/drawable_margin"
+        android:top="@dimen/drawable_margin" />
+</layer-list>
